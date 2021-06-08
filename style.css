@@ -1,0 +1,35 @@
+/* JUMBOTRON */
+.jumbo {
+    margin-top: 20px;
+    border-radius: 25px;
+    box-shadow: 0 8px 16px -6px grey;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    color: #2F4F75;
+}
+
+/* BUTTONS */
+.buttons {
+    border-radius: 25px;
+    background-color: #5751FF;
+    box-shadow: 0 8px 8px -6px #5751FF;
+    color: #FFFFFF;
+}
+
+
+/* INPUT BAR/SEARCH BAR */
+.inputbar {
+    border-radius: 25px;
+}
+
+
+.customcard {
+    font-family: 'Roboto', sans-serif;
+    color: #2F4F75;
+    border-radius: 25px;
+    box-shadow: 0 8px 16px -6px grey;
+}
+
+.container {
+
+}
